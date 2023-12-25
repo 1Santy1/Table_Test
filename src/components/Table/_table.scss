@@ -1,0 +1,137 @@
+.table{
+    float: right;
+    padding-left: 240px;
+}
+
+.svg_item{
+    margin-top: 18px;
+    display: flex;
+    width: 65px;
+    height: 28px;
+    align-items: center;
+    flex-shrink: 0;
+
+    border-radius: 6px;
+    background: #414144;
+}
+
+.table_add_svg{
+    background: none;
+    border: none;
+}
+
+.table_delete_svg{
+    background: none;
+    border: none;
+}
+
+.table_item_lvl{
+    color: #A1A1AA;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%;
+    letter-spacing: 0.1px;
+    padding-right: 54px;
+    padding-bottom: 34px;
+}
+
+.table_work_item{
+    color: #A1A1AA;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; 
+    letter-spacing: 0.1px;
+
+    padding-right: 615px;
+    padding-bottom: 34px;
+}
+
+.table_item_cash{
+    color: #A1A1AA;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 18.2px */
+    letter-spacing: 0.1px;
+
+    padding-right: 110px;
+    padding-bottom: 34px;
+}
+
+.table_item_equipment{
+    color: #A1A1AA;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 18.2px */
+    letter-spacing: 0.1px;
+
+    padding-right: 103px;
+    padding-bottom: 34px;
+}
+
+.table_item_expenses{
+    color: #A1A1AA;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 18.2px */
+    letter-spacing: 0.1px;
+
+    padding-right: 62px;
+    padding-bottom: 34px;
+}
+
+.table_item_profit{
+    color: #A1A1AA;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 18.2px */
+    letter-spacing: 0.1px;
+
+    padding-bottom: 34px;
+}
+
+.table_numbers_item{
+    width: 200px;
+    height: 60px;
+
+    color: #FFF;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 18.2px */
+    letter-spacing: 0.1px;
+}
+
+.table_numbers_item_glav{
+    width: 757px;
+    height: 60px;
+
+    color: #FFF;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 130%; /* 18.2px */
+    letter-spacing: 0.1px;
+}
+

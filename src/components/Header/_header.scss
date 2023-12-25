@@ -1,0 +1,49 @@
+hr{
+    border: none;
+    background-color:#414144;; 
+    height: 1px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    margin-bottom: -15px;
+}
+
+.img_icon{
+    margin: 10px 20px 10px 20px;
+}
+
+.img_link{
+    margin: 10px 31px 10px 0;
+}
+
+.header_title{
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+}
+
+.text_view{
+    color: #fff;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    margin: 13px 0 15px 0;
+}
+
+.text_control{
+    color: #A1A1AA;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    margin: 13px 0 15px 28px;
+}

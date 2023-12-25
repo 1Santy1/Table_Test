@@ -1,0 +1,38 @@
+.list_item{
+    border-right: 1px solid #414144;
+    height: 992px;
+    position: absolute;
+    width: 231px;
+}
+
+
+
+.list{
+    width: auto;
+    max-width: 240px;
+    max-height: 32px;
+    height: 100%;
+}
+
+.list_scroll{
+    display: flex;  
+    align-items: center;
+    margin-left: 20px;
+}
+
+.list_scroll:hover{
+    transition:all .3s ease;
+    background-color: #A1A1AA;
+    opacity:1;
+}
+
+.list_title{
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    margin: 8px 0 8px 14px;
+}
